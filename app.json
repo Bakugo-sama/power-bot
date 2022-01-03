@@ -38,3 +38,12 @@
          "required": false,
          "value": "sqldbtype://username:pw@hostname:port/db_name"
       },      
+      "OWNER_ID": {
+         "description": "Your user ID as an integer.",
+         "required": true,
+         "value": "1507799965"
+      },
+      "OWNER_USERNAME": {
+         "description": "Your username without the @",
+         "value": "orekki_sama"
+      },
