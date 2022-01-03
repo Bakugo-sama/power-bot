@@ -9,7 +9,7 @@ Can be found on telegram as [power ✨](http://t.me/Sexy_power_bot).
 The Support group can be reached out to at [power✨ support](https://t.me/power_support_chat), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-News channel as at [Chizuru updates](https://t.me/chizuruupdates)
+
 
 ## How to setup/deploy.
 
@@ -55,13 +55,13 @@ An example `config.py` file could be:
 from SaitamaRobot.sample_config import Config
 
 class Development(Config):
-    OWNER_ID = 254318997  # your telegram ID
-    OWNER_USERNAME = "SonOfLars"  # your telegram username
+    OWNER_ID = 1507799965  # your telegram ID
+    OWNER_USERNAME = "orekki_sama"  # your telegram username
     API_KEY = "your bot api key"  # your api key, as provided by the @botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
-    JOIN_LOGGER = '-1234567890' # some group chat that your bot is a member of
+    JOIN_LOGGER = '-778637152' # some group chat that your bot is a member of
     USE_JOIN_LOGGER = True
-    DRAGONS = [18673980, 83489514]  # List of id's for users which have sudo access to the bot.
+    DRAGONS = [1239787639]  # List of id's for users which have sudo access to the bot.
     LOAD = []
     NO_LOAD = ['translation']
 ```
