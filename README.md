@@ -4,7 +4,7 @@
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make power fun and useful management for you in your groups.
 
-Can be found on telegram as [power robot](http://t.me/Sexy_power_bot).
+Can be found on telegram as [power ✨](http://t.me/Sexy_power_bot).
 
 The Support group can be reached out to at [chizuru support](https://t.me/chizurusupport), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
