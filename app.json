@@ -91,3 +91,8 @@
          "required": false,
          "value": "1239787639"
       },
+      "DEMONS": {
+         "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
+         "required": false,
+         "value": ""
+      },
