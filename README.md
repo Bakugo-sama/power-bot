@@ -6,7 +6,7 @@ A Telegram Python bot running on python3 forked with saitama with a sqlalchemy d
 
 Can be found on telegram as [power ✨](http://t.me/Sexy_power_bot).
 
-The Support group can be reached out to at [chizuru support](https://t.me/chizurusupport), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [power✨ support](https://t.me/power_support_chat), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
 News channel as at [Chizuru updates](https://t.me/chizuruupdates)
